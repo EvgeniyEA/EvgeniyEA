@@ -1,16 +1,26 @@
-## Hi there 👋
+# Yevhenii Ivanchenko
 
-<!--
-**EvgeniyEA/EvgeniyEA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Development Engineer in Test specializing in quality assurance for        
+AI-driven and non-deterministic systems.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Design and build validation frameworks for reinforcement learning and AI agent behavior 
+in stochastic environments
+- Architect multi-run evidence-based testing strategies where traditional pass/fail       
+approaches don't apply
+- Integrate behavioral regression detection and release-gating into CI/CD pipelines       
+
+## Key Work
+
+- **AI Validation for RL Simulations** — Built the validation and experiment-governance   
+layer for the Pathmind/AnyLogic workflow, enabling production-grade release decisions for 
+non-deterministic RL agents
+- **Healthcare Systems QA** — Led automated testing across 15+ patient-facing healthcare  
+applications
+- **Financial Services QA** — Architected validation infrastructure for actuarial modeling   and regulatory compliance systems protecting $200B+ in assets
+
+## Tech
+
+Java, Python, Selenium, Kafka, Docker, Jenkins, GitHub Actions, AnyLogic, Reinforcement   
+Learning testing
